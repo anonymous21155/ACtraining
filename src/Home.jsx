@@ -9,7 +9,7 @@ function Home () {
   return (
     <>
     <h1>Welcome to DevOps Fundamteals Session</h1>
-    <button onClick={handleClick}>Fix me</button>
+    {/*<button onClick={handleClick}>Fix me</button>*/}
     </>
   )
 }
